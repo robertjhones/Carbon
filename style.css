@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+nav{
+    background-color: rgb(3, 3, 67);
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 3px 1px black;
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+}
+
+body{
+    background-color: grey;
+}
+
+main{
+    background-color:rgb(3, 3, 67);
+    border-radius: 10px;
+    margin: auto;
+    width: 1200px;
+    color: white;
+}
+main > p{
+    color: white;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+h1{
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+img{
+    display: block;
+    height: 400px;
+    width: 400px;
+    margin: auto
+}
